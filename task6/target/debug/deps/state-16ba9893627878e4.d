@@ -1,0 +1,11 @@
+/Users/kengokakazu/softwareEx/task6/target/debug/deps/state-16ba9893627878e4.rmeta: /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/lib.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/ident_hash.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/container.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/storage.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/init.rs
+
+/Users/kengokakazu/softwareEx/task6/target/debug/deps/libstate-16ba9893627878e4.rlib: /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/lib.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/ident_hash.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/container.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/storage.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/init.rs
+
+/Users/kengokakazu/softwareEx/task6/target/debug/deps/state-16ba9893627878e4.d: /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/lib.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/ident_hash.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/container.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/storage.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/init.rs
+
+/Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/lib.rs:
+/Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/ident_hash.rs:
+/Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/container.rs:
+/Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/storage.rs:
+/Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.4.2/src/init.rs:

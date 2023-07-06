@@ -1,0 +1,12 @@
+/Users/kengokakazu/softwareEx/task6/target/debug/deps/toml-3e092fa60a1a1eb9.rmeta: /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/lib.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/value.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/datetime.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/ser.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/de.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/tokens.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/macros.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/spanned.rs
+
+/Users/kengokakazu/softwareEx/task6/target/debug/deps/toml-3e092fa60a1a1eb9.d: /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/lib.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/value.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/datetime.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/ser.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/de.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/tokens.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/macros.rs /Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/spanned.rs
+
+/Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/lib.rs:
+/Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/value.rs:
+/Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/datetime.rs:
+/Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/ser.rs:
+/Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/de.rs:
+/Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/tokens.rs:
+/Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/macros.rs:
+/Users/kengokakazu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.4.10/src/spanned.rs:
