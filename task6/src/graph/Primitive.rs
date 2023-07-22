@@ -1,45 +1,44 @@
-
 use std::ops;
 use std::cmp::PartialOrd;
 use std::cmp::PartialEq;
 use std::cmp::Ordering;
 #[derive(Eq)]
-struct Point{
-    x:usize,
-    y:usize,
+pub struct Point{
+    pub x:usize,
+    pub y:usize,
 }
 impl Point{
-    fn new(x:usize,y:usize) ->Self
+    pub fn new(x:usize,y:usize) ->Self
     {
         Self{x,y}
     }
 }
 
-struct Edge
+pub struct Edge
 {
-    pt:Point,
-    cost:usize,
+    pub pt:Point,
+    pub cost:usize,
 }
 
 impl Edge{
-    fn new(pt:Point,cost:usize) ->Edge
+    pub fn new(pt:Point,cost:usize) ->Edge
     {
         
         Edge{pt: pt,cost: cost}
     }
 }
 
-struct Path{
-    e:Edge,
-    root:Vec<String>,
+pub struct Path{
+    pub e:Edge,
+    pub root:Vec<String>,
 }
 
 impl Path{
-    fn new(e: Edge) ->Path
+    pub fn new(e: Edge) ->Path
     {
        Path { e: e,root: Vec::new()}
     }
-    fn Append(&mut self,s:String)
+    pub fn Append(&mut self,s:String)
     {
         self.root.push(s);
     }
@@ -47,22 +46,22 @@ impl Path{
 
 
 impl ops::Add<Point> for Point{
-    type Output = Self;
-    fn add(self,others: Self)-> Self
+    type Output = self;
+    fn add(self,others: self)-> self
     {
-        Self{x: self.x + others.x,y:self.y + others.y}
+        self{x: self.x + others.x,y:self.y + others.y}
     }
 }
 
 impl PartialEq for Point{
-    fn eq(&self, other: &Self) -> bool
+    fn eq(&self, other: &self) -> bool
     {
         self.x == other.x && self.y == other.y
     }
 }
 
 impl PartialOrd for Edge{
-    fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
+    fn partial_cmp(&self, other: &self) -> Option<Ordering> {
         if self.cost > other.cost
         {
             Some(Ordering::Greater)
@@ -78,13 +77,14 @@ impl PartialOrd for Edge{
 }
 
 impl PartialEq for Edge{
-    fn eq(&self, other: &Self) -> bool {
+    fn eq(&self, other: &self) -> bool {
         self.cost == other.cost
     }
 }
 
+
 impl PartialOrd for Path{
-    fn partial_cmp(&self, other: &Self) -> Option<Ordering> 
+    fn partial_cmp(&self, other: &self) -> Option<Ordering> 
     {
         if self.e == other.e
         {
@@ -104,7 +104,7 @@ impl PartialOrd for Path{
     }
 }
 impl PartialEq for Path{
-    fn eq(&self, other: &Self) -> bool {
+    fn eq(&self, other: &self) -> bool {
         self.e == other.e && self.root.len() == other.root.len() 
     }
 }
